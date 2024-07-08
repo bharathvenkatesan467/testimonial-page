@@ -1,0 +1,32 @@
+.d2{
+    display: flex;
+}
+.d3{
+    border: 2px solid whitesmoke;
+    padding: 10px;
+    margin: 3px;
+    background-color: white;
+    border-radius: 10px;
+}
+.d1{
+    text-align: center;
+    padding-left: 0px;
+}
+body{
+    background-color: #FF7F3E;
+}
+button{
+    background-color:green;
+    color: white;
+    width: 80px;
+}
+button:hover{
+    background-color: aquamarine;
+}
+.d3{
+    display: flex;
+}
+header{
+    color: white;
+    text-align: center;
+}
